@@ -1,6 +1,6 @@
 # MyPortfolio
 Hey there!
-Welcome to my GitHub portfolio: a collection of projects I developed during my Master’s degree in Digital Humanities and Digital Knowledge at the University of Bologna (Alma Mater Studiorum). These works cover a variety of topics and applications, ranging from data analysis to interactive web tools, and reflect my personal journey through this multidisciplinary field.
+Welcome to my GitHub portfolio: a collection of projects I developed during my Master’s degree in [Digital Humanities and Digital Knowledge at the University of Bologna](https://corsi.unibo.it/2cycle/DigitalHumanitiesKnowledge) (Alma Mater Studiorum). These works cover a variety of topics and applications, ranging from data analysis to interactive web tools, and reflect my personal journey through this multidisciplinary field.
 
 Feel free to explore, share feedback, or reach out if you're interested in collaborating. Thanks for stopping by!
 
